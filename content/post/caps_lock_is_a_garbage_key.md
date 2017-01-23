@@ -18,6 +18,10 @@ If you do need to scream, you can hold down the shift key while you type and con
 The caps lock key has a number of attributes that make it a high value key: the location on the home row, easy to reach, and a big keycap.
 All of these benefits are wasted on the key that does not need to exist and has limited use in most everyone's day to day typing.
 Here's what I recommend, remap your caps lock key to either control or escape, whichever fits your workflow better.
+Take a look at Bill Joy's original keyboard (creator of vi), no `Caps Lock` to be found!
+
+![Bill Joy's keyboard](http://www.catonmat.net/images/why-vim-uses-hjkl/lsi-adm3a-full-keyboard.jpg)
+
 For the past five years I have had my caps lock key function as an escape key, primarily because I use vim for text editing.
 Being able to jump between vim modes with an easier motion has made my life better.
 
